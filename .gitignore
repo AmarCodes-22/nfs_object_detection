@@ -1,2 +1,5 @@
 env/
 .vscode/
+tasks.md
+game/
+__pycache__/
