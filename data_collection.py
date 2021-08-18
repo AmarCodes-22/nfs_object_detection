@@ -1,6 +1,3 @@
-# tasks
-#* A data collection class that uses screen capture to store the images/videos.
-
 import os
 
 import cv2

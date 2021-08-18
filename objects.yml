@@ -1,0 +1,24 @@
+cars:
+  - yellow_taxi
+  - green_granny_car
+  - blue_pickup
+  - red_minivan
+  - grey_lada
+
+trucks:
+  - freight_truck
+  - log_truck
+
+misc_objects:
+  - traffic_cone
+  - toll_booth
+  - crash_cushion
+  - blockade
+
+navigation:
+  - traffic_light
+  - information_board
+  - sharp_turn_signs
+  - lane_information
+  - traffic_sign
+
