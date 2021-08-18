@@ -28,4 +28,3 @@ class FPS:
         time_diff = self.end_time - self.start_time
         fps = 1 / time_diff
         print(fps)
-

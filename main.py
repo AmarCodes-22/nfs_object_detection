@@ -29,3 +29,5 @@ while True:
         break
 
     frame_count += 1
+
+cv2.destroyAllWindows()
