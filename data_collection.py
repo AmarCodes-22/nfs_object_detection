@@ -5,7 +5,7 @@ from Xlib import display
 
 from screen_capture import ScreenCapture
 
-raw_video_name = 'video2.avi'
+raw_video_name = 'video3.avi'
 raw_image_name = 'image1.jpg'
 processed_video_name = 'video1_processed.avi'
 processed_image_name = 'image1_processed.jpg'

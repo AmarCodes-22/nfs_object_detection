@@ -4,6 +4,7 @@ cars:
   - blue_pickup
   - red_minivan
   - grey_lada
+  - white_news_van
 
 trucks:
   - freight_truck
@@ -21,4 +22,3 @@ navigation:
   - sharp_turn_signs
   - lane_information
   - traffic_sign
-
