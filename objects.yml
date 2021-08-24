@@ -22,4 +22,5 @@ navigation:
   - sharp_turn_signs
   - lane_information
   - traffic_sign
+  - speed_limit
 
