@@ -6,6 +6,5 @@ __pycache__/
 data/
 .ipynb_checkpoints/
 workspace.code-workspace
-yolov3-320/
-yolov3-tiny/
 models/
+colab/
