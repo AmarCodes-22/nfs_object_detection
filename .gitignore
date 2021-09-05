@@ -8,3 +8,4 @@ data/
 workspace.code-workspace
 models/
 colab/
+trained_models/
